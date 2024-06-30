@@ -1,7 +1,7 @@
 
 # Amazon - Clone using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
+**Project Link** - ***h https://dharthtiw2207.github.io/Amazon/***
 
 ## Tech We Used
 
